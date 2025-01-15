@@ -60,3 +60,4 @@ app.*.map.json
 /lib/
 /.idea/
 /.dart_tool/
+/lib/
