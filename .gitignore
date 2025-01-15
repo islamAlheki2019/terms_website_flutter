@@ -48,3 +48,15 @@ app.*.map.json
 /build/f872507f30e2ff2523f0f1d19160266e.cache.dill.track.dill
 /build/last_build_run.json
 /build/web/
+/README.md
+/terms_website_flutter.iml
+/pubspec.yaml
+/pubspec.lock
+/analysis_options.yaml
+/.metadata
+/.gitignore
+/web/
+/test/
+/lib/
+/.idea/
+/.dart_tool/
